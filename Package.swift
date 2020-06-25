@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "CocoaLumberjack",
+    name: "CocoaLumberjackSwift",
     platforms: [
         .iOS(.v8),
         .macOS(.v10_10),
